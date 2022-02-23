@@ -44,6 +44,7 @@ My dream is to impact the world forever with my creations.🌎
 <img align="left" src="./jest.svg" alt="Jest" height='34px'/>
 <img align="left" alt="Material UI" height ="42px" src="./materialui.svg">
 <img align="left" src="./git.svg" alt="git" height='42px'/>
+<img align="left" src="./angularjs.svg" alt="AngularJs" height='42px'/>
 
 
 
