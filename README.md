@@ -29,6 +29,7 @@ My dream is to impact the world forever with my creations.🌎
 ### 🔨 Languages and Tools:   
 
 <img align="left" alt="React" height ="42px" src="./react.svg">
+<img align="left" alt="Next" height ="42px" src="./nextjs.svg">
 <img align="left" alt="TypeScript" height ="42px" src="./typescript.svg">
 <img align="left" alt="MongoDB" height ="42px" src="./mongodb.svg">
 <img align="left" alt="GraphQL" height ="42px" src="./graphql.svg">
