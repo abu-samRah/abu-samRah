@@ -2,7 +2,7 @@
 
 My name is Abdallah Abusamrah, I'm a lifelong learner who enjoys learning new things and keeps improving. .
 
-Since the age of 2, I've always been fascinated by computers & loved spending hours playing on them! I'm currently working as a Frontend developer & Trainer for young Software Engineers.👨‍💻🖥
+Since middle school , I've always been fascinated by computers & loved spending hours playing on them! I'm currently working as a Frontend developer & Trainer for young Software Engineers.👨‍💻🖥
 
 My dream is to impact the world forever with my creations.🌎
 
