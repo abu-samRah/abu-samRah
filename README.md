@@ -22,7 +22,9 @@ My dream is to impact the world forever with my creations.🌎
 <br>
 
 📫 Reach me at: abdallahabuamrah@gmail.com
-<div> <img src="./LinkedIn.png" alt="Abdallah's LinkedIn" width="20px"> LinkedIn: </div>
+<br>
+👤 LinkedIn profile: www.linkedin.com/in/abdallah-abusamrah
+
 
 ### 🔨 Languages and Tools:   
 
