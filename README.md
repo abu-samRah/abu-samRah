@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 My name is Abdallah Abusamrah, I'm a lifelong learner who enjoys learning new things and keeps improving. .
 
