@@ -30,7 +30,9 @@ My dream is to impact the world forever with my creations.🌎
 
 <img align="left" alt="React" height ="42px" src="./react.svg">
 <img align="left" alt="Next" height ="42px" src="./nextjs.svg">
+<img align="left" alt="JavaScript" height ="42px"  src="./javascript.svg">
 <img align="left" alt="TypeScript" height ="42px" src="./typescript.svg">
+<img align="left" alt="ReactQuery" height ="42px" src="./reactquery.svg">
 <img align="left" alt="MongoDB" height ="42px" src="./mongodb.svg">
 <img align="left" alt="GraphQL" height ="42px" src="./graphql.svg">
 <img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
@@ -39,11 +41,10 @@ My dream is to impact the world forever with my creations.🌎
 <img align="left" alt="Bash" height ="42px" src="./bash.svg">
 <img align="left" alt="CSS3" height ="42px" src="./css.svg">
 <img align="left" alt="HTML5" height ="42px" src="./html.svg">
-<img align="left" alt="JavaScript" height ="42px"  src="./javascript.svg">
 <img align="left" src="./jest.svg" alt="Jest" height='34px'/>
 <img align="left" alt="Material UI" height ="42px" src="./materialui.svg">
 <img align="left" src="./git.svg" alt="git" height='42px'/>
-<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px' align="left"/> 
+
 
 
 <br>
