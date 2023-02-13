@@ -12,7 +12,7 @@ My dream is to impact the world forever with my creations.🌎
 <br>
 <br>
 
-💡 I'm currently learning Angular!
+💡 I'm currently learning Redux!
 
 🤝 I'm looking to connect with more Software Engineers!
 
@@ -21,7 +21,7 @@ My dream is to impact the world forever with my creations.🌎
 <br>
 <br>
 
-📫 Reach me at: abdallahabuamrah@gmail.com
+📫 Reach me at: abdallahabusamrah98@gmail.com
 <br>
 👤 LinkedIn profile: www.linkedin.com/in/abdallah-abusamrah
 
