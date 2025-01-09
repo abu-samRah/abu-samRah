@@ -12,11 +12,11 @@ My dream is to impact the world forever with my creations.🌎
 <br>
 <br>
 
-💡 I'm currently learning Redux!
+💡 I'm currently learning vue!
 
 🤝 I'm looking to connect with more Software Engineers!
 
-🔥 My passions: Tech, coding, crypto, hiking, reading, & food!
+🔥 My passions: Tech, coding, hiking, reading, & food!
 
 <br>
 <br>
